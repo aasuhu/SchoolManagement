@@ -1,0 +1,29 @@
+﻿<UserControl x:Class="School.ViewStudentRegistrations"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:School"
+             mc:Ignorable="d" 
+             d:DesignHeight="416" d:DesignWidth="813"
+             
+             Loaded="UserControl_Loaded">
+    <Grid>
+        <Label Content="ID :" Margin="98,10,663.333,379" />
+        <Label Name="lblID" Content="St ID" Margin="155,10,563.333,379"/>
+        <DataGrid Name="DataGrid" Height="327" Margin="10,0,10.333,10" VerticalAlignment="Bottom" ColumnWidth="*" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Registration ID " Binding="{Binding Path=RegIstartionID}"/>
+                <DataGridTextColumn Header="Subject ID " Binding="{Binding Path=SubjectID}"/>
+                <DataGridTextColumn Header="Subject Name " Binding="{Binding Path=SubjectName}"/>
+                <DataGridTextColumn Header="Grade " Binding="{Binding Path=Grade}"/>
+                <DataGridTextColumn Header="Staus " Binding="{Binding Path=Status}"/>
+
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label Content="Full Name :" Margin="56,42,663.333,347" />
+        <Label x:Name="lblIFullName" Content="Full Name" Margin="155,42,563.333,347"/>
+        <Button x:Name="btnClose" Content="Close" HorizontalAlignment="Left" Margin="728,10,0,0" VerticalAlignment="Top" Width="75" Click="btnClose_Click"/>
+
+    </Grid>
+</UserControl>

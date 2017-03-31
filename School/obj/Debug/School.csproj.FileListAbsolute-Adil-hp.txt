@@ -1,0 +1,124 @@
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\bin\Debug\DB\SchoolDB.mdf
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\bin\Debug\DB\SchoolDB_log.ldf
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\bin\Debug\App.xaml.cs
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\bin\Debug\Properties\Settings.Designer.cs
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\bin\Debug\Properties\Settings.settings
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\bin\Debug\School.exe.config
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\bin\Debug\School.exe.manifest
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\bin\Debug\School.application
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\bin\Debug\School.exe
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\bin\Debug\School.pdb
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\AddStudent.g.cs
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\AddSubject.g.cs
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\MainWindow.g.cs
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\RegisterStudentInSubject.g.cs
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\UpdateStudent.g.cs
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\UpdateSubject.g.cs
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\ViewStudentRegistrations.g.cs
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\ViewStudents.g.cs
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\ViewSubjectRegistrations.g.cs
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\ViewSubjects.g.cs
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\App.g.cs
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\School_Content.g.cs
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\School_MarkupCompile.cache
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\School_MarkupCompile.lref
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\AddStudent.baml
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\AddSubject.baml
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\MainWindow.baml
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\RegisterStudentInSubject.baml
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\UpdateStudent.baml
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\UpdateSubject.baml
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\ViewStudentRegistrations.baml
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\ViewStudents.baml
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\ViewSubjectRegistrations.baml
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\ViewSubjects.baml
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\School.g.resources
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\School.Properties.Resources.resources
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\School.csproj.GenerateResource.Cache
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\School.exe.manifest
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\School.application
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\School.exe
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\School.pdb
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\MainContent.g.cs
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\MainContent.baml
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\StudentsXML.g.cs
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\StudentsXML.baml
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\bin\Debug\Telerik.Windows.Controls.RibbonView.xml
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\Window1.g.cs
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\Window2.g.cs
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\Window1.baml
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\Window2.baml
+C:\Users\Adil\OneDrive\Projects\Visual Studio Projects\School\School\obj\Debug\School.exe.licenses
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\bin\Debug\School.exe.config
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\School.exe
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\School.pdb
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\bin\Debug\App.xaml.cs
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\bin\Debug\DB\SchoolDB.mdf
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\bin\Debug\DB\SchoolDB_log.ldf
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\bin\Debug\Properties\Settings.Designer.cs
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\bin\Debug\Properties\Settings.settings
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\bin\Debug\School.exe.manifest
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\bin\Debug\School.application
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\bin\Debug\School.exe
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\bin\Debug\School.pdb
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\bin\Debug\Telerik.Windows.Controls.RibbonView.xml
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\AddStudent.g.cs
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\AddSubject.g.cs
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\MainContent.g.cs
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\MainWindow.g.cs
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\RegisterStudentInSubject.g.cs
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\StudentsXML.g.cs
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\UpdateStudent.g.cs
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\UpdateSubject.g.cs
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\ViewStudentRegistrations.g.cs
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\ViewStudents.g.cs
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\ViewSubjectRegistrations.g.cs
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\ViewSubjects.g.cs
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\Window1.g.cs
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\Window2.g.cs
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\App.g.cs
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\School_Content.g.cs
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\School_MarkupCompile.cache
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\School_MarkupCompile.lref
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\AddStudent.baml
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\AddSubject.baml
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\MainContent.baml
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\MainWindow.baml
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\RegisterStudentInSubject.baml
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\StudentsXML.baml
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\UpdateStudent.baml
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\UpdateSubject.baml
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\ViewStudentRegistrations.baml
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\ViewStudents.baml
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\ViewSubjectRegistrations.baml
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\ViewSubjects.baml
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\Window1.baml
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\Window2.baml
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\School.g.resources
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\School.Properties.Resources.resources
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\School.csproj.GenerateResource.Cache
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\School.exe.licenses
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\School.exe.manifest
+C:\Users\Adil\OneDrive\Projects\SchoolManagement\School\obj\Debug\School.application

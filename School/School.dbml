@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="SchoolDB" Class="SchoolDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\DB\SchoolDB.mdf;Integrated Security=True" SettingsObjectName="School.Properties.Settings" SettingsPropertyName="SchoolDBConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Student" Member="Students">
+    <Type Name="Student">
+      <Column Name="StudentID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="FirstName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="LastName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Gender" Type="System.String" DbType="VarChar(1) NOT NULL" CanBeNull="false" />
+      <Association Name="Student_Registration" Member="Registrations" ThisKey="StudentID" OtherKey="StudentID" Type="Registration" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Subject" Member="Subjects">
+    <Type Name="Subject">
+      <Column Name="SubjectID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="SubjectName" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="SubjectDescription" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="SubjectCredits" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Subject_Registration" Member="Registrations" ThisKey="SubjectID" OtherKey="SubjectID" Type="Registration" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Registration" Member="Registrations">
+    <Type Name="Registration">
+      <Column Name="RegistrationID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="StudentID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="SubjectID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Grade" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Status" Type="System.String" DbType="VarChar(1)" CanBeNull="true" />
+      <Association Name="Student_Registration" Member="Student" ThisKey="StudentID" OtherKey="StudentID" Type="Student" IsForeignKey="true" />
+      <Association Name="Subject_Registration" Member="Subject" ThisKey="SubjectID" OtherKey="SubjectID" Type="Subject" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

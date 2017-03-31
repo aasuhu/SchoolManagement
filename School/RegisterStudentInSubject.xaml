@@ -1,0 +1,21 @@
+﻿<UserControl x:Class="School.RegisterStudentInSubject"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:School"
+             mc:Ignorable="d" 
+             d:DesignHeight="416" d:DesignWidth="813"
+
+             Loaded="UserControl_Loaded"
+             >
+    <Grid>
+        <Label x:Name="label_Copy2" Content="Student ID :" HorizontalAlignment="Left" Margin="199,77,0,0" VerticalAlignment="Top" RenderTransformOrigin="-2.136,-0.389" FontSize="21.333" FontFamily="Segoe UI Emoji" Height="48" Width="126"/>
+        <Label x:Name="lblStudent" Content="" HorizontalAlignment="Left" Margin="358,77,0,0" VerticalAlignment="Top" RenderTransformOrigin="-2.136,-0.389" FontSize="21.333" FontFamily="Segoe UI Emoji" Height="48" Width="163"/>
+        <Label x:Name="label_Copy" Content="Student ID :" HorizontalAlignment="Left" Margin="199,130,0,0" VerticalAlignment="Top" RenderTransformOrigin="-2.136,-0.389" FontSize="21.333" FontFamily="Segoe UI Emoji" Height="48" Width="126"/>
+        <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="358,130,0,0" VerticalAlignment="Top" Width="252" Height="35" RenderTransformOrigin="0.519,0.72"/>
+        <Button x:Name="btnSaveRegistration" Content="Save" HorizontalAlignment="Center" Margin="0,200,0,0" VerticalAlignment="Center" Width="150" RenderTransformOrigin="1.302,2.358" Height="42" FontSize="18.667" IsDefault="True" Click="btnSaveRegistration_Click"/>
+        <Button x:Name="btnClose" Content="Close" HorizontalAlignment="Left" Margin="728,10,0,0" VerticalAlignment="Top" Width="75" IsCancel="True" Click="btnClose_Click"/>
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,39 @@
+﻿<UserControl x:Class="School.ViewStudents"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:School"
+             mc:Ignorable="d" 
+             d:DesignHeight="416" d:DesignWidth="812"
+             Loaded="UserControl_Loaded">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="181*"/>
+            <ColumnDefinition Width="16*"/>
+            <ColumnDefinition Width="6*"/>
+        </Grid.ColumnDefinitions>
+        <DataGrid x:Name="dataGrid"  HorizontalAlignment="Left" Margin="10,10,0,0"  VerticalAlignment="Top" Height="396" Width="792" FontSize="16" ColumnWidth="*" Grid.ColumnSpan="3" AutoGenerateColumns="False" AreRowDetailsFrozen="True">
+            <DataGrid.Columns x:Uid="studentsDG">
+                <DataGridTextColumn Header="Student ID" Binding="{Binding Path=StudentID}" />
+                <DataGridTextColumn Header="First Name" Binding="{Binding Path=FirstName}" />
+                <DataGridTextColumn Header="Last Name" Binding="{Binding Path=LastName}" />
+                <DataGridTextColumn Header="Gender" Width="100" Binding="{Binding Path=Gender}" />
+
+            </DataGrid.Columns>
+
+            <DataGrid.ContextMenu>
+                <ContextMenu >
+                    <MenuItem Header="Edit Student"  Click="cm_EditStudent_Click"  />
+                    <MenuItem Header="Register for subject" Click="cm_Register_Click"/>
+                    <MenuItem Header="View Student Registrations" Click="cm_ViewStRegs_Click" />
+                    <Separator/>
+                    <MenuItem Header="Delete Student" Click="cm_DeleteStudent_Click" />
+                    
+                </ContextMenu>
+            </DataGrid.ContextMenu>
+
+        </DataGrid>
+
+    </Grid>
+</UserControl>

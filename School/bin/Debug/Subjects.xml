@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Subjects>
+  <Subject ID="100">
+    <Name>JEE</Name>
+    <Description>JAVA EE DEv</Description>
+    <Credits>8</Credits>
+  </Subject>
+  <Subject ID="101">
+    <Name>C#</Name>
+    <Description>C SHarp Dev </Description>
+    <Credits>10</Credits>
+  </Subject>
+</Subjects>
